@@ -112,7 +112,7 @@ html {
   /* Journal */
   
   .journal {
-    padding: 0 25% 4rem 25%;
+    padding: 0 10% 1rem 10%;
     background-color: rgb(254, 231, 218);
     color: #4a4a4a;
     line-height: 1.4;
@@ -125,6 +125,7 @@ html {
     border-radius: 5px;
     margin: 0 auto 4.44rem auto;
     background-color: white;
+    margin-bottom: 30px;
   }
   
   .photo .image-container {
@@ -150,7 +151,6 @@ html {
   .journal p {
     padding-bottom: 2.77rem;
     font-size: 1.5rem;
-    line-height: .87;
   }
   
   .journal .first-letter {
@@ -198,6 +198,7 @@ html {
     font-style: italic;
     color: #9b9b9b;
     line-height: 1.5;
+    padding: 50px;
   }
   
   footer p {
